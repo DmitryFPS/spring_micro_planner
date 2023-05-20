@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/planner-config/planner-config.iml" filepath="$PROJECT_DIR$/planner-config/planner-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/planner-config.main.iml" filepath="$PROJECT_DIR$/.idea/modules/planner-config.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/planner-config.test.iml" filepath="$PROJECT_DIR$/.idea/modules/planner-config.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/planner-entity/planner-entity.iml" filepath="$PROJECT_DIR$/.idea/modules/planner-entity/planner-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/planner-entity/planner-entity.main.iml" filepath="$PROJECT_DIR$/.idea/modules/planner-entity/planner-entity.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/planner-entity/planner-entity.test.iml" filepath="$PROJECT_DIR$/.idea/modules/planner-entity/planner-entity.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/planner-gateway/planner-gateway.iml" filepath="$PROJECT_DIR$/.idea/modules/planner-gateway/planner-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/planner-gateway/planner-gateway.main.iml" filepath="$PROJECT_DIR$/.idea/modules/planner-gateway/planner-gateway.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/planner-gateway/planner-gateway.test.iml" filepath="$PROJECT_DIR$/.idea/modules/planner-gateway/planner-gateway.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/planner-server/planner-server.iml" filepath="$PROJECT_DIR$/.idea/modules/planner-server/planner-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/planner-server/planner-server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/planner-server/planner-server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/planner-server/planner-server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/planner-server/planner-server.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ru.orlov.app.spring_micro_planner.iml" filepath="$PROJECT_DIR$/.idea/modules/ru.orlov.app.spring_micro_planner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ru.orlov.app.spring_micro_planner.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ru.orlov.app.spring_micro_planner.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ru.orlov.app.spring_micro_planner.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ru.orlov.app.spring_micro_planner.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_micro_planner.iml" filepath="$PROJECT_DIR$/spring_micro_planner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/planner-entity/spring_micro_planner.planner-entity.iml" filepath="$PROJECT_DIR$/.idea/modules/planner-entity/spring_micro_planner.planner-entity.iml" />
+    </modules>
+  </component>
+</project>
