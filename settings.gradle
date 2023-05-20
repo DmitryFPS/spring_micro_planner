@@ -1,3 +1,4 @@
 rootProject.name = 'spring_micro_planner'
 includeBuild 'planner-server'
 includeBuild 'planner-config'
+includeBuild 'planner-gateway'
